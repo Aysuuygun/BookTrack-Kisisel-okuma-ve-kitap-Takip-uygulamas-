@@ -1,4 +1,4 @@
-GEREKSİNİMLER 
+**GEREKSİNİMLER**
 
 1. Hesap Oluşturma(Aysu UYGUN)
 2. Hesaba Giriş Yapma(Aysu UYGUN)
@@ -38,7 +38,8 @@ GEREKSİNİMLER
 36. Kitaplar Arasında Gezinme(Hatice Nur ŞAH)
 
 
-GEREKSİNİM DAĞILIMLARI
+**GEREKSİNİM DAĞILIMLARI**
+
 - [Aysu UYGUN'un Gereksinimleri](Aysu-UYGUN'un-Gereksinimleri.md#1-gereksinim-analizi)
 - [Mustafa ÖZDOĞAN'ın Gereksinimleri](Mustafa-ÖZDOĞAN'ın-Gereksinimleri.md#2-gereksinim-analizi)
 - [Şevval Beyza EFE'nin Gereksinimleri](Şevval-Beyza-EFE'nin-Gereksinimleri.md#3-gereksinim-analizi)
