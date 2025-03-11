@@ -12,11 +12,6 @@ Uygulama Adresi:[Goodreads](https://www.goodreads.com) /
 [LibraryThing](https://www.librarything.com)
 
 
-
-
-
-
-
 Grup adı:
 
 Proje ekibi:Aysu UYGUN(2211012031) 
@@ -24,10 +19,14 @@ Mustafa ÖZDOĞAN(2211012061)
 Şevval Beyza EFE(2211012022)
 Hatice Nur ŞAH(2211012016)
 
-[1. Gereksinim Analizi](#1-gereksinim-analizi)
-[2. Durum Diyagramı](#2-durum-diyagramı)
-[3. Durum Senaryoları](#3-durum-senaryoları)
-[4. Front-End](#4-front-end)
-[5. Back-End](#5-back-end)
-[6. Video Sunum](#6-video-sunum)
+
+- [1. Gereksinim Analizi](#1-gereksinim-analizi)  
+- [2. Durum Diyagramı](#2-durum-diyagramı)  
+- [3. Durum Senaryoları](#3-durum-senaryoları)  
+- [4. Front-End](#4-front-end)  
+- [5. Back-End](#5-back-end)  
+- [6. Video Sunum](#6-video-sunum)  
+
+---
+
 
