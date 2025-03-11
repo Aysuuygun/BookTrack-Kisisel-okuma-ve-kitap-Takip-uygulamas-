@@ -12,7 +12,7 @@ Uygulama Adresi:[Goodreads](https://www.goodreads.com) /
 [LibraryThing](https://www.librarything.com)
 
 
-Grup adı:
+Grup adı:Serene
 
 Proje ekibi:Aysu UYGUN(2211012031) 
 Mustafa ÖZDOĞAN(2211012061)
