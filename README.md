@@ -20,13 +20,10 @@ Mustafa ÖZDOĞAN(2211012061)
 Hatice Nur ŞAH(2211012016)
 
 
-- 1.[Gereksinim Analizi](Gereksinim-analizi.md)  
--2. [Durum Diyagramı](#2-durum-diyagramı)  
--3. [Durum Senaryoları](#3-durum-senaryoları)  
--4. [Front-End](#4-front-end)  
--5. [Back-End](#5-back-end)  
--6. [Video Sunum](#6-video-sunum)  
-
----
-
+1. [Gereksinim Analizi](Gereksinim-Analizi.md)
+2. [Durum Diyagramı](Durum-Diyagramı.md)
+3. [Durum Senaryoları](Durum-Senaryoları.md)
+4. [Front-End](Front-End.md)
+5. [Back-End](Back-End.md)
+6. [Video Sunum](Sunum.md)
 
