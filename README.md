@@ -20,7 +20,7 @@ Mustafa ÖZDOĞAN(2211012061)
 Hatice Nur ŞAH(2211012016)
 
 
-- [1. Gereksinim Analizi](Gereksinim-analizi.md#1-Gereksinim-analizi)  
+- [1. Gereksinim Analizi](Gereksinim-analizi.md)  
 - [2. Durum Diyagramı](#2-durum-diyagramı)  
 - [3. Durum Senaryoları](#3-durum-senaryoları)  
 - [4. Front-End](#4-front-end)  
