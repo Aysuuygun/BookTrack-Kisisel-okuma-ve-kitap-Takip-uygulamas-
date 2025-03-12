@@ -32,10 +32,9 @@
 30. Okuma Zamanı Takibi(Hatice Nur ŞAH)
 31. Kitap Durumu Güncelleme(Hatice Nur ŞAH)
 32. Kitap Koleksiyonu Oluşturma(Hatice Nur ŞAH)
-33. Kitap Koleksiyonu Oluşturma(Hatice Nur ŞAH)
-34. Kitap Arka Plan Resmi Ekleyebilme(Hatice Nur ŞAH)
-35. Kitap Yorumlarını Düzenleme(Hatice Nur ŞAH)
-36. Kitaplar Arasında Gezinme(Hatice Nur ŞAH)
+33. Kitap Arka Plan Resmi Ekleyebilme(Hatice Nur ŞAH)
+34. Kitap Yorumlarını Düzenleme(Hatice Nur ŞAH)
+35. Kitaplar Arasında Gezinme(Hatice Nur ŞAH)
 
 
 **GEREKSİNİM DAĞILIMLARI**
