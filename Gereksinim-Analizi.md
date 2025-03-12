@@ -33,7 +33,7 @@
 31. Kitap Durumu Güncelleme(Hatice Nur ŞAH)
 32. Kitap Koleksiyonu Oluşturma(Hatice Nur ŞAH)
 33. Kitap Arka Plan Resmi Ekleyebilme(Hatice Nur ŞAH)
-34.Gelişmiş Arama Filtreleri(Hatice Nur ŞAH)
+34. Gelişmiş Arama Filtreleri(Hatice Nur ŞAH)
 35. Kitap Yorumlarını Düzenleme(Hatice Nur ŞAH)
 36. Kitaplar Arasında Gezinme(Hatice Nur ŞAH)
 
